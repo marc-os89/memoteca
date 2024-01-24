@@ -1,0 +1,58 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "Na minha máquina funciona!!",
+      "autoria": "Dev da madrugada",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "Angular é o melhor",
+      "autoria": "Dev Chinfo",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "e5b7",
+      "conteudo": "Massa vei",
+      "autoria": "Pucas",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "ca30",
+      "conteudo": "Finish Him!",
+      "autoria": "Mortal Kombat",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "d5e3",
+      "conteudo": "Yo quiero fumaaar Motaaaa",
+      "autoria": "Cypress Hill",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "e6f6",
+      "conteudo": "I'm just better",
+      "autoria": "Marcos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "63e7",
+      "conteudo": "Foca no Angular, Marquinhos!",
+      "autoria": "Bruno Siecola",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "e802",
+      "conteudo": "Eu gosto de dormir",
+      "autoria": "Felipinho",
+      "modelo": "modelo3"
+    }
+  ]
+}
